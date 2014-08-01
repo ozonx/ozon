@@ -1,0 +1,9 @@
+Building Ozoncoin
+
+See doc/readme-qt.rst for instructions on building Ozoncoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ozoncoin.
+
+See doc/build-*.txt for instructions on building Ozoncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ozoncoin.
